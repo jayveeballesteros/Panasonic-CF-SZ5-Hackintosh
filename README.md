@@ -63,7 +63,7 @@ Changed
 
 ## Disabling CFG_Lock
 
-Make sure the modGRUBShell are in the EFI folder EFI/Tools and is also added in config.plist>tools 
+Make sure the modGRUBShell is in the EFI folder EFI/Tools and is also added in config.plist>tools 
 
 Important!
 There might be a different value data for your CFG_Lock bios. Make sure you follow Dortania post install guides (https://dortania.github.io/OpenCore-Install-Guide/)
@@ -80,7 +80,7 @@ I created this github repository for my own documentation and my own device. I d
 
 ---
 
-Thanks to all of the developers who are providing the best work for the kext:
+Thanks to all of the developers who are providing the best work for the kexts:
 
 - thanks to https://github.com/acidanthera for providing OpenCore and other really usefull kext
 - thanks to https://github.com/vit9696 for providing Lilu
